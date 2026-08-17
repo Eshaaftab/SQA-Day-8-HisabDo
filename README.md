@@ -1,4 +1,3 @@
-# SQA-Day-8-HisabDo
 # SQA Day 8 – HisabDo Capstone Project
 
 ## 📌 Project Overview
